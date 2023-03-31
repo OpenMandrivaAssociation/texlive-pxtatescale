@@ -1,6 +1,6 @@
 Name:		texlive-pxtatescale
 Version:	63967
-Release:	1
+Release:	2
 Summary:	Patch to graphics driver for scaling in vertical direction of pTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pxtatescale
