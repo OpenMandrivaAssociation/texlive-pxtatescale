@@ -3,7 +3,7 @@ Version:	63967
 Release:	2
 Summary:	Patch to graphics driver for scaling in vertical direction of pTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pxtatescale
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pxtatescale
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxtatescale.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxtatescale.doc.r%{version}.tar.xz
